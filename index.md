@@ -7,10 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
+  - link: "#search"
+    link_text: Search
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
@@ -18,8 +16,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://app.dailyvita.ca
+    button_text: Login
 - template: hero-banner-w-image
   block: hero-2
   slug: features
