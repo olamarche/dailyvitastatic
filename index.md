@@ -11,10 +11,10 @@ page_sections:
     link_text: Search
   - link: "#schedule"
     link_text: Scheduler
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#compare"
+    link_text: Compare
+  - link: "#about"
+    link_text: About
   cta:
     url: https://app.dailyvita.ca
     button_text: LOGIN
