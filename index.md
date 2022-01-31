@@ -64,6 +64,10 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
