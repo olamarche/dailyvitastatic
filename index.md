@@ -55,9 +55,10 @@ page_sections:
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: cart
-  headline: Find the best price
+  headline: "<strong>Prepare your shopping</strong> like a groceries, compare price
+    and pick the best one"
   content: Find the best price and add it with one click to your daily schedule. Not
     sure ? the app will send you notifications when the price change.
   media:
