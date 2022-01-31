@@ -45,7 +45,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: scheduler
+  slug: schedule
   headline: <strong>Organize</strong><span class="light"> your day and never forget
     to take your natural product.</span>
   content: Every your get your schedule your the right informations. Empty bottle
