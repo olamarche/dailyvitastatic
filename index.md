@@ -68,6 +68,12 @@ page_sections:
   block: cta-bar
   content: "<strong>Not sure ?</strong> Subscribe and get more informations."
   email_recipient: info@dailyvita.ca
+- template: 1-column-text
+  block: one-column-1
+  slug: about
+  headline: About this app
+  content: 'DailyVita was created to help families to organize their life and get
+    healthier day after day. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
