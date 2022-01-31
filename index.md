@@ -45,11 +45,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: scheduler
+  headline: <strong>Organize</strong><span class="light"> your day and never forget
+    to take your natural product.</span>
+  content: Every your get your schedule your the right informations. Empty bottle
+    ? It will remains you the order a new one.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
