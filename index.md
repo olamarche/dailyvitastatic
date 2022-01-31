@@ -68,14 +68,6 @@ page_sections:
   block: cta-bar
   content: "<strong>Not sure ?</strong> Subscribe and get more informations."
   email_recipient: info@dailyvita.ca
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
