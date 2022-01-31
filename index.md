@@ -38,8 +38,7 @@ page_sections:
   slug: search
   headline: <strong>Easy search<span class="light"> </span></strong><span class="light">every
     natural product quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: Get results among all big shopping website and with the best price.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
