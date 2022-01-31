@@ -62,8 +62,8 @@ page_sections:
   content: Find the best price and add it with one click to your daily schedule. Not
     sure ? the app will send you notifications when the price change.
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2018/06/21/blocks-split.png"
+    alt_text: Feature 3
 - template: signup-bar
   block: cta-bar
   content: "<strong>Not sure ?</strong> Subscribe and get more informations."
