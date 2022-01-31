@@ -11,8 +11,8 @@ page_sections:
     link_text: Search
   - link: "#schedule"
     link_text: Schedule
-  - link: "#compare"
-    link_text: Compare
+  - link: "#cart"
+    link_text: Cart
   - link: "#about"
     link_text: About
   cta:
