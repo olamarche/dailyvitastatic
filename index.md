@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#search"
     link_text: Search
-  - link: "#customize"
-    link_text: Customize
+  - link: "#schedule"
+    link_text: Scheduler
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
