@@ -10,7 +10,7 @@ page_sections:
   - link: "#search"
     link_text: Search
   - link: "#schedule"
-    link_text: Scheduler
+    link_text: Schedule
   - link: "#compare"
     link_text: Compare
   - link: "#about"
