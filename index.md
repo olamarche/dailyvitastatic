@@ -66,8 +66,8 @@ page_sections:
     alt_text: ''
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: "<strong>Not sure ?</strong> Subscribe and get more informations."
+  email_recipient: info@dailyvita.ca
 - template: 1-column-text
   block: one-column-1
   slug: responsive
